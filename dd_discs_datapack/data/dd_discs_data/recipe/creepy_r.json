@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "show_notification": true,
+  "category": "misc",
   "pattern": [
     "BHB",
     "CPC",
